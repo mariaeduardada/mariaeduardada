@@ -1,7 +1,7 @@
--  ola meu nome é @mariaeduardada
-- 👀 meu email de contato é 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- # sobre mim
+- 👀 ola meu nome é mariaeduardada
+- 👍 meu email de contato é eduarda.silva.maria1901@escola.pr.gov.br
+- 🌱 eu estou enteressada em aprender a programar novas linguagen.
 - 📫 How to reach me ...
 
 <!---
